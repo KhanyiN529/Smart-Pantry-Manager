@@ -1,0 +1,22 @@
+*.iml
+.gradle/
+/local.properties
+/.idea/
+/.DS_Store
+/build/
+/app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+*.class
+*.apk
+*.dex
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+*.keystore
+*.log
+
+# Local editor settings and temporary Office files
+.vscode/settings.json
+.kilo/
+~$*
