@@ -1,0 +1,7 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical" android:padding="24dp">
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Settings" android:textSize="24sp" android:textStyle="bold" />
+    <androidx.appcompat.widget.SwitchCompat android:id="@+id/switchAlerts" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="64dp" android:text="Highlight expiring ingredients" />
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Show an in-app reminder for ingredients expiring within three days. Your preference is saved on this device.\n\nRecipes use only available quantities. Expired ingredients are excluded. Use compatible units: g/kg, ml/l, or matching count units.\n\nAll pantry data stays on this device. No account or location access is needed." />
+</LinearLayout>
