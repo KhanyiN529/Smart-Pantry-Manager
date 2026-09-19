@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.SmartPantry" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#246B50</item>
+        <item name="colorPrimaryVariant">#184A38</item>
+        <item name="colorSecondary">#DAA640</item>
+    </style>
+</resources>
